@@ -2,7 +2,7 @@ piVersion: v1
 kind: ResourceQuota
 metadata:
     name: ns-quota
-        namespace: eks-example
+    namespace: eks-example
         spec:
             hard:
                   requests.memory: 1Gi
