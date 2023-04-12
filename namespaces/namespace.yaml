@@ -1,6 +1,6 @@
-piVersion: v1
+apiVersion: v1
 kind: Namespace
 metadata:
     labels:
           name: eks-example
-    name: eks-examplee
+  name: eks-example
